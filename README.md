@@ -1,4 +1,4 @@
-# ML &amp;T OPT t-SNE Pedagogical Project
+# ML &amp; OPT t-SNE Pedagogical Project
 
 ## CSCI4968 - Group_U4_Project_Progress_Report_(t-SNE)
 
