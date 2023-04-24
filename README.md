@@ -6,8 +6,6 @@ This file contains a progress report on the pedagogical project.
 
 ## This is the data used
 
-'''
-from tensorflow.keras.datasets import fashion_mnist
-from tensorflow import keras
-(X_train, y_train), (X_test, y_test) = fashion_mnist.load_data()
-'''
+  from tensorflow.keras.datasets import fashion_mnist
+  from tensorflow import keras
+  (X_train, y_train), (X_test, y_test) = fashion_mnist.load_data()
