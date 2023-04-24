@@ -4,9 +4,8 @@
 
 This file contains a progress report on the pedagogical project.
 
-## This is the data used`
+## Data can be obtained in the following way:
 
-    ```python
     from tensorflow.keras.datasets import fashion_mnist
     from tensorflow import keras
     
